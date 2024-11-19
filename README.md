@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam Reither</h1>
-<h3 align="center">A full-stack developer an former educator</h3>
+<h3 align="center">A full-stack developer and former educator</h3>
 
 - 🔭 I’m currently working on [What to Cook](https://samsreither.github.io/what-to-cook-frontend/)
 
